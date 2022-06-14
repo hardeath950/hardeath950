@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Raul
-- 🌱 I’m currently developing and learning TypeScript + Vue
+- 🌱 I’m currently developing and learning TypeScript with Vue
 
 [![wakatime](https://wakatime.com/badge/user/f3263f0d-5225-486b-b6f9-bc7700e1157e.svg)](https://wakatime.com/@f3263f0d-5225-486b-b6f9-bc7700e1157e)
 
