@@ -14,8 +14,6 @@
 [![wakatime](https://wakatime.com/badge/user/f3263f0d-5225-486b-b6f9-bc7700e1157e.svg)](https://wakatime.com/@f3263f0d-5225-486b-b6f9-bc7700e1157e)
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hardeath950&layout=compact&langs_count=10&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hardeath950&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
   
 </div
 
