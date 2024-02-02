@@ -15,6 +15,8 @@
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hardeath950&layout=compact&langs_count=10&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardeath950&layout=donut&langs_count=10&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hardeath950&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div
 
